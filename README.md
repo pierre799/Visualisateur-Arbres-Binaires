@@ -18,6 +18,9 @@ Se lance en executant `Visualisateur d'Arbres Binaires.pyw` (dans `src`)
   - PME (Profondeur moyenne externe)
   - PMI (Profondeur moyenne interne)
 
+![Image](https://github.com/user-attachments/assets/03ad2af9-f6d7-45c4-a62f-7e0adc721866)
+![Image](https://github.com/user-attachments/assets/5d42200d-740d-45dd-a784-a670a1e01aba)
+
 ## Prérequis
 
 - Python 3.12.2
