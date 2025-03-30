@@ -11,7 +11,7 @@ class Arbre:
             w = 410 / (2 ** (niv + 1))
             if estSag:  # Enfant gauche
                 self.x = int(parent.getX() - w)
-            else:  # Enfant droit]
+            else:  # Enfant droit
                 self.x = int(parent.getX() + w)
             self.y = parent.getY() + 100
         else:  # Si le noeud est la racine

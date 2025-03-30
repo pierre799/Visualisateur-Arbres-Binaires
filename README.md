@@ -1,4 +1,4 @@
-# Programme de Représentation d'Arbres Binaires
+# Programme de Visualisation d'Arbres Binaires
 
 Ce projet est une application permettant de visualiser et de manipuler des arbres binaires avec PyQt5.
 
