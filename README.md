@@ -2,7 +2,7 @@
 
 Ce projet est une application permettant de visualiser et de manipuler des arbres binaires avec PyQt5.
 
-Se lance en executant Représentateur d'Arbres Binaires.pyw
+Se lance en executant `Visualisateur d'Arbres Binaires.pyw` (dans `src`)
 
 ## Fonctionnalités
 
